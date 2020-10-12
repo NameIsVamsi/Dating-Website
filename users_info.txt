@@ -1,0 +1,13 @@
+//When we run the users insert script the value for password is stored encrypted. Please change it to 1234 and run it.
+
+Username : NameIsVamsi
+password : 1234
+
+Username : NameIsVamc
+password : 1234
+
+Username : ashley
+password : 1234
+
+Username : katelyn
+password : 1234
