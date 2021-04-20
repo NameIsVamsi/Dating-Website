@@ -1,4 +1,6 @@
-                                              
+      ![Dating](https://user-images.githubusercontent.com/72161057/115474429-65ba9a00-a20b-11eb-9d9c-c44b3cceda0a.gif)
+
+      
                                              𝑫𝒂𝒕𝒊𝒏𝒈 𝑺𝒊𝒕𝒆
 
   GROUP MEMBERS
